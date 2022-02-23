@@ -10,7 +10,7 @@
 - ⛹️‍♂️ Mes loisirs : **Le basket, le foot, les jeux vidéos et la musique.**
 
 <br>
-<h3 align="left">Prenez contact avec moi :</h3>
+<h3 align="left">Voici d'autres moyens de me contacter :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/enzocasalini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enzocasalini" height="30" width="40" /></a>
 <a href="https://instagram.com/enzo_casalini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enzo_casalini" height="30" width="40" /></a>

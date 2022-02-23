@@ -5,7 +5,7 @@
 
 - 📫 Vous pouvez me contacter via mon mail **enzocasa83@gmail.com**
 
-- 👨‍💻 ou depuis mon site personnel [enzo-casalini.fr](enzo-casalini.fr)
+- 👨‍💻 ou depuis mon site personnel [enzo-casalini.fr](www.enzo-casalini.fr)
 
 - ⛹️‍♂️ Mes loisirs : **Le basket, le foot, les jeux vidéos et la musique.**
 

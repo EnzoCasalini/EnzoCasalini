@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, Je suis Enzo Casalini !</h1>
+<h1 align="center">Salut 👋 Je suis Enzo Casalini !</h1>
 <h3 align="center">Un futur développeur étudiant à Sophia Ynov Campus.</h3>
 
 - 💻 Je suis en train d'apprendre de nombreuses choses : **C#, Java, Dev Mobile, Windows Server...**

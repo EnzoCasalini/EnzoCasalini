@@ -3,7 +3,7 @@
 
 - 💻 Je suis en train d'apprendre de nombreuses choses : **Dev API, Dev Mobile, DevOps, Management...**
 
-- 👨‍💻 ou depuis mon site personnel [enzo-casalini.fr](enzo-casalini.fr)
+- 👨‍💻 ou depuis mon site personnel [https://enzo-casalini.fr](https://enzo-casalini.fr)
 
 - 📫 Vous pouvez me contacter via mon mail **enzocasa83@gmail.com**
 

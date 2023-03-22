@@ -3,9 +3,9 @@
 
 - 💻 Je suis en train d'apprendre de nombreuses choses : **Dev API, Dev Mobile, DevOps, Management...**
 
-- 👨‍💻 ou depuis mon site personnel [https://enzo-casalini.fr](https://enzo-casalini.fr)
-
 - 📫 Vous pouvez me contacter via mon mail **enzocasa83@gmail.com**
+
+- 👨‍💻 ou depuis mon site personnel [https://enzo-casalini.fr](https://enzo-casalini.fr)
 
 - ⛹️‍♂️ Mes loisirs : **Le basket, le foot, les jeux vidéos et la musique.**
 
